@@ -1,3 +1,4 @@
 # desdecasa
-## Compre y venda desde Casa online
- Mi vecino totoro es precioso
+## Proyecto de Code Developers
+ 3° BG - Informática - Escuela Técnica Superior
+Melo - Uruguay
